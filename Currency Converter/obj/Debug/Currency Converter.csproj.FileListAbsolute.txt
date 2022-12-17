@@ -1,0 +1,21 @@
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.csproj.AssemblyReference.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency_Converter.Form1.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.csproj.GenerateResource.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.pdb
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.csproj.AssemblyReference.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency_Converter.Form1.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.csproj.GenerateResource.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\Currency Converter\obj\Debug\Currency Converter.pdb
