@@ -1,0 +1,33 @@
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.exe.config
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.exe
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.pdb
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.Form1.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.frmPlanets.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.Properties.Resources.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.GenerateResource.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.exe
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.pdb
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.exe.config
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.exe
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.pdb
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.AssemblyReference.cache
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.Form1.resources
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.frmPlanets.resources
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.Properties.Resources.resources
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.GenerateResource.cache
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.exe
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.pdb
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.exe.config
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\bin\Debug\AstronomyHelper.pdb
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.AssemblyReference.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.Form1.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.frmPlanets.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.Properties.Resources.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.GenerateResource.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.csproj.CoreCompileInputs.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\AstronomyHelper\AstronomyHelper\obj\Debug\AstronomyHelper.pdb
