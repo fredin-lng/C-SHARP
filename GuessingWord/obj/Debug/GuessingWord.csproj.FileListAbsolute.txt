@@ -1,0 +1,21 @@
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\bin\Debug\GuessingWord.exe.config
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\bin\Debug\GuessingWord.exe
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\bin\Debug\GuessingWord.pdb
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.Form1.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.Properties.Resources.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.GenerateResource.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.exe
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.pdb
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.AssemblyReference.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\bin\Debug\GuessingWord.exe.config
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\bin\Debug\GuessingWord.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\bin\Debug\GuessingWord.pdb
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.AssemblyReference.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.Form1.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.Properties.Resources.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.GenerateResource.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.CoreCompileInputs.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\GuessingWord\GuessingWord\obj\Debug\GuessingWord.pdb
