@@ -1,0 +1,31 @@
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Alfredo3070\Documents\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Alfredo3070\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Form1.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-1330\Projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
