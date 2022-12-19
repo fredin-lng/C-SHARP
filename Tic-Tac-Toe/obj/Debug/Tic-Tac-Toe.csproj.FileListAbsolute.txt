@@ -1,0 +1,21 @@
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
+C:\Users\Alfredo3070\Documents\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\alfredo\Documents\Lonestar College\ITSE-2353\Projects\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
